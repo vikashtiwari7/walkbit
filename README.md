@@ -1,6 +1,14 @@
 # WalkBit 🚶
 
-> A Chrome extension that reminds developers to get up and walk. Built for devs who work from home and forget to move.
+> A Chrome extension that reminds folks to get up and walk. Built for people who work from home and forget to move.
+
+![Extension Popup](assets/startup.png)
+
+## Stats after use
+![Result Page](assets/stats_after_use.png)
+
+## Notification Panel
+![Notification Panel](assets/notification.png)
 
 ## Features
 
@@ -62,11 +70,8 @@ walkbit/
 ├── walk-timer.html / .js # Circular countdown timer + confetti
 ├── offscreen.html / .js  # Hidden audio context for chime playback
 ├── styles.css            # Shared dark-theme styles
-├── seed-data.html / .js  # 🧪 DEV ONLY — seed fake stats for testing/screenshots
 └── icons/                # Extension icons (16, 48, 128px)
 ```
-
-> **Note:** Remove `seed-data.html` and `seed-data.js` before publishing to the Chrome Web Store.
 
 ---
 
@@ -76,4 +81,4 @@ PRs are welcome! Open an issue first to discuss what you'd like to change.
 
 ## License
 
-MIT © Vikash Tiwari
+MIT © - Use it however you like
